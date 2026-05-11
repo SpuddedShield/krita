@@ -36,9 +36,8 @@
 
 ## Usage
 
-1. Download the flavor of your choice.
-2. Open the app and go to **Preferences** > **Appearance** > **Import theme**.
-3. Select the downloaded flavor file.
+1. Download the preferred theme
+2. 
 
 <!-- The FAQ section is optional. Remove if needed.-->
 ## 🙋 FAQ
@@ -48,7 +47,7 @@
 
 ## 💝 Thanks to
 
-- [Human](https://github.com/catppuccin)
+- [SpuddedShield](https://github.com/spuddedshield)
 
 &nbsp;
 
